@@ -3,7 +3,7 @@
 
 ![Flowcharts](https://github.com/user-attachments/assets/bacfc9f3-86a7-4404-8a2e-a6011ab3fc79)
 
-
+******************************************************************************************************************************************************************************************
 **Data Processing Workflow**
 
 
@@ -27,6 +27,10 @@ Finally, the transformed data is stored in:
 Delta Tables for efficient updates and time travel queries.
 Data Lake for long-term storage and further analysis.
 
+
+
+
+*************************************************************************************************************************************************************************************************
 
 
 
