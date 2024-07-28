@@ -13,6 +13,8 @@ We start by reading data from multiple sources:
 CSV files
 Parquet files
 Delta Tables
+
+
 Step 2: Factory Pattern
 Using the factory pattern, we have implemented factory methods to efficiently extract and load data from these diverse sources.
 
